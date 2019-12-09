@@ -82,6 +82,15 @@ input[type=text] , input[type=number] {
   input[type=submit]:hover{
       cursor: pointer;
   }
+  @media screen and (max-width:760px){
+      .content{
+          background-image: url(/image/undraw_working_out_6psf.svg);
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: contain;
+          width: fit-content;
+      }
+  }
         /* FOR LARGE SCREEN */
   @media screen and (min-width:760px){
       .content-img{display: block;}
