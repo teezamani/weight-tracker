@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #0882d3;
+    width: 100%;
+    color:silver;
+}
+.header h1{
+    text-transform: capitalize;
+    padding: 5px 10px;
+}
