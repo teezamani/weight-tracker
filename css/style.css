@@ -6,7 +6,7 @@
 
 body{
     width: 100%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  sans-serif;
 }
 
 .header{
@@ -46,6 +46,7 @@ body{
     color: #4d4d4d;
     background-color: white;
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    border-radius: 30px;
 }
 
 .content-formData label{
