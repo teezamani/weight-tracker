@@ -10,5 +10,13 @@
 }
 .header h1{
     text-transform: capitalize;
-    padding: 5px 10px;
+    padding: 5px 70px;
+}
+.content{
+    padding-top: 40px;
+}
+.content-heading{
+    text-align: center;
+    text-transform: capitalize;
+    color: #4d4d4d;
 }
