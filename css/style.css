@@ -20,3 +20,15 @@
     text-transform: capitalize;
     color: #4d4d4d;
 }
+.main-content{
+    padding-top: 150px;
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns:repeat(1fr);
+}
+.content-img{
+    width: 40%;
+}
+.content-img img{
+    width: 100%;
+}
